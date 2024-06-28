@@ -10,18 +10,19 @@ User Registration: Allows new users to sign up by providing their details.
 User Login: Enables existing users to log in and access their accounts.
 
 
-2.Book A Flight
+2. Book A Flight
 Flight Search: Users can search for available flights based on their preferences.
 Flight Booking: Users can book flights from the search results by providing necessary information.
 
 
-3.View Reservations
+3. View Reservations
 Reservation Management: Users can view and manage their booked flights.
 
 
 4. About Us/Contact Us
 Information Sections: Provides detailed information about the system and its developers.
 Basic Chat Bot: Offers user assistance and information through a chat interface.
+
 **Usage**
 1. Registration and Login: Users can create a new account or log in to an existing one.
 2. Booking a Flight: Users can search for flights, select preferred options, and complete the booking process.
