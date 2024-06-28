@@ -1,6 +1,7 @@
 # flight-reservation-system
 
-Overview
+#Overview:
+
 This Flight Reservation System is a web application developed for a University Project. It enables users to book flights, manage their reservations, and access information through an intuitive interface. Key features include user registration and login, flight booking, reservation management, and informational sections supported by a basic chat bot.
 
 Features
